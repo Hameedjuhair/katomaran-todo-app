@@ -245,6 +245,10 @@ katomaran_todo_app/
 
 
 ---
+## 📦 Download APK
+
+👉 [Download Latest Release APK](https://github.com/Hameedjuhair/katomaran-todo-app/releases/latest/download/app-release.apk)
+
 
 ## 📝 Assumptions
 
